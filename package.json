@@ -15,7 +15,7 @@
   "dependencies": {
     "css-color-function": "^1.3.3",
     "emotion": "^10.0.27",
-    "next": "^16.2.3",
+    "next": "^16.2.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
